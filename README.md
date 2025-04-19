@@ -18,9 +18,6 @@ Simulations were conducted to observe voltage drops, loading levels, and transfo
 - Critical section: Between poles **PRA77 ➝ PRA70**
 - Primary transformer involved: **BZ5933**
 
-<p align="center">
-  <img src="images/network_diagram.png" alt="Network Diagram" width="600"/>
-</p>
 
 ---
 
@@ -30,7 +27,7 @@ Simulations were conducted to observe voltage drops, loading levels, and transfo
 
 | Parameter | Existing | Proposed |
 |----------|----------|----------|
-| Conductor Size | [current size] | 70 mm² ABC (additional) |
+| Conductor Size | 70 mm² ABC | TWO 70 mm² ABC  |
 | Objective | Handle increased current, reduce losses |
 
 - 📈 **Benefit:** Improved voltage profile and reliability
@@ -43,9 +40,6 @@ Simulations were conducted to observe voltage drops, loading levels, and transfo
 - 💡 **Solution:** Install an additional feeder from **BZ5933**
 - 🎯 **Purpose:** Load segregation, reduced feeder stress
 
-<p align="center">
-  <img src="images/feeder_addition_diagram.png" alt="New Feeder Layout" width="500"/>
-</p>
 
 ---
 
@@ -53,7 +47,7 @@ Simulations were conducted to observe voltage drops, loading levels, and transfo
 
 | Parameter | Existing | Proposed |
 |----------|----------|----------|
-| Transformer Capacity | [Current rating] | **250 kVA** |
+| Transformer Capacity | **100 kVA** | **250 kVA** |
 
 - ⚡ **Why?** Current capacity is insufficient under peak load
 - 🛠️ **Upgrade Goal:** Ensure system stability and future scalability
@@ -69,5 +63,15 @@ Simulations were conducted to observe voltage drops, loading levels, and transfo
 
 ---
 
-## 📁 Repository Structure
+![Image](https://github.com/user-attachments/assets/542846a9-d7d8-45bf-ab13-53ba58d882ad)
+![Image](https://github.com/user-attachments/assets/ff2efa55-08af-4fb9-9319-111d155f2c7f)
+![Image](https://github.com/user-attachments/assets/2a40a2f5-236c-4630-96fe-8c8b813c9f60)
+![Image](https://github.com/user-attachments/assets/21b25b02-c1cd-44f6-8e3f-fe3e8326fd21)
+![Image](https://github.com/user-attachments/assets/d7e52e54-f521-41fc-98fe-acf054757e77)
+![Image](https://github.com/user-attachments/assets/4710b8f5-1c35-43de-9ed3-056090126331)
+![Image](https://github.com/user-attachments/assets/391b0728-1341-4a2e-99cf-e54d47e9c303)
+![Image](https://github.com/user-attachments/assets/21caa39b-c4f0-4435-9058-93ed51e2ef9f)
+![Image](https://github.com/user-attachments/assets/cb1b1de9-c4cd-4146-9edf-d7c5fb7cfc65)
+![Image](https://github.com/user-attachments/assets/015f2e66-174f-4a5e-9e7c-0dbc5663ec17)
+![Image](https://github.com/user-attachments/assets/038f328b-7344-45b9-b671-ea1546634f91)
 
